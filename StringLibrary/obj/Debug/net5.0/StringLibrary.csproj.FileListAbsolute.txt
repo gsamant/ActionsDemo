@@ -1,0 +1,12 @@
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/bin/Debug/net5.0/StringLibrary.deps.json
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/bin/Debug/net5.0/StringLibrary.dll
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/bin/Debug/net5.0/ref/StringLibrary.dll
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/bin/Debug/net5.0/StringLibrary.pdb
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.AssemblyInfo.cs
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.dll
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/ref/StringLibrary.dll
+/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/Debug/net5.0/StringLibrary.pdb
