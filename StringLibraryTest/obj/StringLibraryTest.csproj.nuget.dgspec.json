@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibraryTest/StringLibraryTest.csproj": {}
+  },
+  "projects": {
+    "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj",
+        "packagesPath": "/Users/gsamant/.nuget/packages/",
+        "outputPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gsamant/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibraryTest/StringLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibraryTest/StringLibraryTest.csproj",
+        "projectName": "StringLibraryTest",
+        "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibraryTest/StringLibraryTest.csproj",
+        "packagesPath": "/Users/gsamant/.nuget/packages/",
+        "outputPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibraryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gsamant/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj": {
+                "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

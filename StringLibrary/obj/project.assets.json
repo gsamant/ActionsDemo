@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/StringLibrary.csproj",
+      "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/StringLibrary.csproj",
+      "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj",
       "packagesPath": "/Users/gsamant/.nuget/packages/",
-      "outputPath": "/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/obj/",
+      "outputPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gsamant/.nuget/NuGet/NuGet.Config"
