@@ -5,11 +5,8 @@
 
 name: Weekly Team Sync
 on:
- # workflow_dispatch:
- 
-          
   schedule:
-    - cron: '31 14 * * *'
+    - cron: '40 14 * * *'
  
 
 jobs:
