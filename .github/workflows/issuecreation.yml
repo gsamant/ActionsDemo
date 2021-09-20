@@ -5,12 +5,11 @@
 
 name: Weekly Team Sync
 on:
-  workflow_dispatch:
-    inputs:
-        tags:
-          description: 'Test scenario'  
+ # workflow_dispatch:
+ 
+          
   schedule:
-    - cron: 13 14 * * *
+    - cron: '31 14 * * *'
  
 
 jobs:
