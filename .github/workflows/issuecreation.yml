@@ -4,10 +4,14 @@
 # documentation.
 
 name: Weekly Team Sync
-#on:
-#  schedule:
-#    - cron: 20 07 * * 1
-on: [workflow_dispatch]
+on:
+  workflow_dispatch:
+    inputs:
+        tags:
+          description: 'Test scenario'  
+  schedule:
+    - cron: 13 14 * * *
+ 
 
 jobs:
   create_issue:
