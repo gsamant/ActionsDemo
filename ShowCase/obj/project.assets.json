@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionDemo/ShowCase/ShowCase.csproj",
+      "projectUniqueName": "/Users/gsamant/Desktop/Code/ActionsDemo/ShowCase/ShowCase.csproj",
       "projectName": "ShowCase",
-      "projectPath": "/Users/gsamant/Desktop/Code/ActionDemo/ShowCase/ShowCase.csproj",
+      "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/ShowCase/ShowCase.csproj",
       "packagesPath": "/Users/gsamant/.nuget/packages/",
-      "outputPath": "/Users/gsamant/Desktop/Code/ActionDemo/ShowCase/obj/",
+      "outputPath": "/Users/gsamant/Desktop/Code/ActionsDemo/ShowCase/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gsamant/.nuget/NuGet/NuGet.Config"
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/StringLibrary.csproj": {
-              "projectPath": "/Users/gsamant/Desktop/Code/ActionDemo/StringLibrary/StringLibrary.csproj"
+            "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj": {
+              "projectPath": "/Users/gsamant/Desktop/Code/ActionsDemo/StringLibrary/StringLibrary.csproj"
             }
           }
         }

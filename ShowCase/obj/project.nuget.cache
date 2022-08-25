@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEt/u2JcS7wZjPlvmG8MCTomMXy0URCKV0gIOaVFLR5BGe4hxwQn76UKviJ5rfs4ImYjaa6RQBXVDqaOdKdsLA==",
+  "dgSpecHash": "cfXV4jM0W5qHKfyLvhBh035QNd6Xk5znR99TPr20io3QFrEOcYV/CgBbWLVk9PXaHnPX5OIWDyjZbzuBN33zEg==",
   "success": true,
-  "projectFilePath": "/Users/gsamant/Desktop/Code/ActionDemo/ShowCase/ShowCase.csproj",
+  "projectFilePath": "/Users/gsamant/Desktop/Code/ActionsDemo/ShowCase/ShowCase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
