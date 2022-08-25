@@ -10,7 +10,7 @@ namespace UtilityLibraries
                 return false;
 
             char ch = str[0];
-            return char.IsUpper(ch);
+            return char.IsLower(ch);
         }
     }
 }
